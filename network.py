@@ -1,7 +1,3 @@
-# backprop.py
-# author: Robert M. Keller
-# date: 31 January 2016
-
 # description:
 # FFnet is a basic multilevel neural network class
 # The number of layers is arbitrary.
